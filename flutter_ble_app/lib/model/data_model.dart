@@ -1,7 +1,7 @@
 class ReceivedDataModel {
   final int ledStatus;
   final double temperature;
-  final int humidity;
+  final double humidity;
 
   ReceivedDataModel({
     required this.ledStatus,
